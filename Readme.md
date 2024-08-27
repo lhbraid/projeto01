@@ -7,7 +7,9 @@ Este é meu primeiro projeto utilizando o **Git e Github**.
 
 - Adcicionada uma nova branch no projeto
 
--Adicionada uma nova funcionalidade
+- Adicionada uma nova funcionalidade
+
+- Adicionando uma terceira funcionalidade
 
 
 
